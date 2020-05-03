@@ -1,0 +1,2 @@
+body{margin:0;display:flex;overflow-x:auto;white-space:nowrap}#root{width:100vw;height:100vh}*{font-family:"Montserrat",sans-serif;font-weight:300}.default-font-color{color:#fff}.max{width:100%;height:100%}#header-container{display:grid;grid-template-rows:10% 80% 10%;grid-template-columns:10% 70% 20%;width:100%;height:10%;background-color:#6a5acd}.sidebar{grid-row:2/3;grid-column:0/3}.contact{grid-row:2/3;grid-column:3/3;background-color:transparent}
+/*# sourceMappingURL=main.3e706173.chunk.css.map */
